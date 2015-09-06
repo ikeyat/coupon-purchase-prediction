@@ -24,5 +24,6 @@ https://www.kaggle.com/c/coupon-purchase-prediction/data
       * 割引率
  * ユーザの登録日以前のクーポンは学習対象に入れないべき 
  * Relation数（ユーザ-クーポン）は2833181の模様
+
 ## TODO
  * テスト対象クーポンが学習データに含まれているか確認する
