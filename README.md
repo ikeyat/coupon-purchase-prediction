@@ -11,7 +11,10 @@ https://www.kaggle.com/c/coupon-purchase-prediction/data
        * サンプリングして何個か調べたところテスト対象クーポンは学習データに含まれていなかった。内容ベースでやる。
  * 機械学習？
     * モデルは簡単に作れそう   
- * 全ユーザに対して最適な1クーポンを推薦する、と言うのが目的
+ * 全ユーザに対して最適な1クーポンを推薦する、と言うのが目的？
+    * 全ユーザに対して最適10クーポン予測して、Mean average precisionをとる。
+      意訳すると、なるべくランキング上位にたくさん購入したクーポンを当てればよい。
+      https://www.kaggle.com/c/coupon-purchase-prediction/details/evaluation
     * ユーザベースで解析した方が良さそう
  * 内容ベースでやる場合
     * ユーザ
