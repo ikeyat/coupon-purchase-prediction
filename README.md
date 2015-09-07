@@ -28,6 +28,8 @@ https://www.kaggle.com/c/coupon-purchase-prediction/data
 
 ## TODO
  * テスト対象クーポンが学習データに含まれているか確認する
+    * done. 含まれていなかった。
+ 
 
 ## 参考
 * 機械学習の復習
